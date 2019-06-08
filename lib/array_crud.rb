@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 ["dez", "kyler", "tyrone", "brandon"]
-add_element_to_end_of_array="yes"
+add_element_to_end_of_array<< "yes"
 end
 
 def add_element_to_start_of_array(array, element)
