@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-["book", "worm"]
-add_element_to_end_of_array<<"mark"
+[]
+add_element_to_end_of_array<< "yet"
 end
 
 def add_element_to_start_of_array(array, element)
