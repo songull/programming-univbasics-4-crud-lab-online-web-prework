@@ -7,8 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-my_array=["wife", "kids", "husband"]
-my_array<< "dog"
+add_element_to_end_of_array(array, element).last("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
